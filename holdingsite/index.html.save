@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="We Go To 12. A technology consulting company that specializes in rapid prototyping software, hardware, and companies." />
+		<meta name="keywords" content="wireless grids, varsity, grid, software" />
+    <title>Wireless Grids Corporation</title>
+    <style type="text/css" media="screen">
+      body {
+        background-color: #FFF;
+				margin-top: 80px;
+			  font-family: "Lucida Grande", Verdana, sans-serif;
+      }
+			a {
+				color: #000;
+			}
+			#content {
+				margin: 1px;
+			}
+			#mantra {
+				text-align: justify;
+				width: 25%;
+				margin-left: auto;
+				margin-right: 20%;
+				padding-top: 5px;
+			}
+			#logo {
+				float: left;
+				margin-left: 20%;
+				margin-right: auto;
+				padding-top: 0px;
+			}
+			#footer {
+			  font-size: 0.8em;
+			  text-align: center;
+			  padding-top: 4em;
+			  clear: both;
+			}
+			.badge {
+				float: right;
+				margin-right:20%;
+			}
+			.badge img {
+				border: 1px solid #FFFFFF;
+			}
+    </style>
+  </head>
+
+  <body>
+	<div id="content">
+		<div id="logo"><image src="gfx/bar_logo_1.jpg"/></div>
+		<div id="mantra">
+			<p>
+				Wireless Grids Corporation (WGC) has recently completed a merger with Varsity Media Group Acquisition Corp., of Austin, TX.</P>
+			<p>
+				WGC specializes in developing cutting edge software for next-generation seamless media and file sharing across the range of mobile and fixed operating systems.</p>
+			<p>
+				We have currently revamped our team and are in a new phase of research and development, working to evolve our prototypes in alpha phase focused on transforming computer and wireless networking.
+			</p>
+			<p>Please contact us with any questions.</p>
+			<p><a href="mailto:info@wgrids.com">info@wgrids.com</a></p>
+		</div>
+
+	</div>
+	<div id="footer">
+Wireless Grids Corporation © 208
+	</div>
+	
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http:/$
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'$
+    </script>
+    <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-619678-3");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+    </script>
+</body>
+</html>

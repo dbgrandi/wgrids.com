@@ -1,0 +1,80 @@
+.menu {
+	background-image:url('../gfx/menu.jpg');
+	background-repeat:no-repeat;
+		height:47px;
+}
+
+A.menubut {font-size: 80%;}
+A.menubut:link {text-decoration: none; color: white;}
+A.menubut:visited {text-decoration: none; color: white;}
+A.menubut:active{text-decoration: none; color: white;}
+A.menubut:hover {text-decoration: none; color: #9fd5bd;}
+
+A.menubuton {font-size: 80%;}
+A.menubuton:link {text-decoration: none; color: white;}
+A.menubuton:visited {text-decoration: none; color: white;}
+A.menubuton:active{text-decoration: none; color: white;}
+A.menubuton:hover {text-decoration: none; color: #959384;}
+
+.menuitem{
+	position: relative;
+	text-align: center;
+	padding-top: 12px;
+	height: 35px;
+	}
+	
+	.menuitemon{
+		position: relative;
+		text-align: center;
+		padding-top: 12px;
+		height: 35px;
+		background-color: #9fd5bd;}
+	
+	
+#home{
+
+	left: 186px;
+	width: 62px;
+
+}
+#about{
+
+	left: 250px;
+	width: 83px;
+	top:-47px;
+}
+
+#team{
+
+	left: 336px;
+	width: 70px;
+	top:-94px;
+}
+
+#tech{
+
+	left: 409px;
+	width: 97px;
+	top:-141px;
+}
+
+#press{
+
+	left: 509px;
+	width: 49px;
+	top:-188px;
+}
+
+#partners{
+
+	left: 561px;
+	width: 64px;
+	top:-235px;
+}
+
+#contact{
+
+	left: 628px;
+	width: 79px;
+	top:-282px;
+}

@@ -1,0 +1,136 @@
+body {
+background-color: #dde4dc;
+font-family: Helvetica, arial, Sans-serif;
+font-size: 100%;
+font-weight: 100;
+line-height: 120%;
+color: white;
+padding: 0px;
+margin: 0px;
+
+}
+
+address {font-size: 80%;}
+
+A {font-size: 70%;}
+A:link {text-decoration: underline; color: #9fd5bd;}
+A:visited {text-decoration: underline; color: #9fd5bd;}
+A:active {text-decoration: underline; color: #9fd5bd;}
+A:hover {text-decoration: none; color: white;}
+
+A.maillink {font-size: 100%;}
+A.release {font-size: 80%;}
+
+tr {border-bottom: 15px solid #959384; }
+
+
+h1 { font-size: 100%; color: #9fd5bd; font-weight: bold; margin-bottom: 10px; } 
+
+p.header_para {margin-bottom: 20px;font-size: 100%; ;}
+p {font-size: 80%; margin-bottom: 20px;}
+.pickout{color: #fff; font-weight: 600;}
+.releasedate{font-size: 70%; width: 100px;}
+
+.main {
+
+
+width: 931px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.toppit {
+	background-image:url('../gfx/topper.jpg');
+	background-repeat:no-repeat;
+	height:296px;
+}
+
+.contenttopper {
+
+	background-image:url('../gfx/maintop.jpg');
+	background-repeat:no-repeat;
+		height:78px;
+}
+.content {
+
+	background-image:url('../gfx/filler.jpg');
+	background-repeat:repeat-y;
+	overflow: auto; 
+	min-height:300px;
+	height: 1%;
+	
+
+}
+
+.lefthandpanel {
+
+	background-image:url('../gfx/filler.jpg');
+	background-repeat:repeat-y;
+	width: 400px;
+	float: left;
+	padding-left: 60px;
+}
+
+
+
+.lefthandpanelpress {
+
+	background-image:url('../gfx/filler.jpg');
+	background-repeat:repeat-y;
+	width: 600px;
+	float: left;
+	padding-left: 80px;
+}
+
+.lefthandpanelcont {
+
+	background-image:url('../gfx/filler.jpg');
+	background-repeat:repeat-y;
+	width: 600px;
+	float: left;
+	padding-left: 80px;
+}
+
+
+.righthandpanel{
+
+
+	width: 350px;
+	float: left;
+	padding-left: 20px;
+}
+
+.profilepic {
+	float: left; 
+	clear: left;
+	margin-right: 9px;
+	margin-top: 6px;
+}
+
+.profiletext{
+	font-size: .7em;
+	text-align: justify;
+}
+
+.profileem{
+	font-weight: bold;
+	color: #9fd5bd;
+}
+
+
+.contentbotter {
+
+	background-image:url('../gfx/mainbot.jpg');
+	background-repeat:no-repeat;
+	height:40px;
+}
+
+.footer{
+	text-align: center; font-size: .7em;
+}
+
+.add{float: left; margin-right:25px;}
+
+#car{position: relative; top: -300px; left:859px; width: 35px; height: 31px;background-image:url('../gfx/car.gif');
+background-repeat:no-repeat; }
